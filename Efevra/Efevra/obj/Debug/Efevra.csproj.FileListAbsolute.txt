@@ -1,0 +1,11 @@
+C:\Users\INTEL\Desktop\Efevra\Efevra\bin\Debug\Efevra.exe.config
+C:\Users\INTEL\Desktop\Efevra\Efevra\bin\Debug\Efevra.exe
+C:\Users\INTEL\Desktop\Efevra\Efevra\bin\Debug\Efevra.pdb
+C:\Users\INTEL\Desktop\Efevra\Efevra\obj\Debug\Efevra.csproj.AssemblyReference.cache
+C:\Users\INTEL\Desktop\Efevra\Efevra\obj\Debug\Efevra.csproj.SuggestedBindingRedirects.cache
+C:\Users\INTEL\Desktop\Efevra\Efevra\obj\Debug\Efevra.Efevra.resources
+C:\Users\INTEL\Desktop\Efevra\Efevra\obj\Debug\Efevra.Properties.Resources.resources
+C:\Users\INTEL\Desktop\Efevra\Efevra\obj\Debug\Efevra.csproj.GenerateResource.cache
+C:\Users\INTEL\Desktop\Efevra\Efevra\obj\Debug\Efevra.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\Desktop\Efevra\Efevra\obj\Debug\Efevra.exe
+C:\Users\INTEL\Desktop\Efevra\Efevra\obj\Debug\Efevra.pdb
